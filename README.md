@@ -4,7 +4,7 @@
 ## Overview
 The Assistive Robot Cane is a smart assistive tool designed for individuals with visual impairments. By leveraging the Robot Operating System (ROS) framework, the cane is able to actively sense its environment and compute optimal paths, ensuring the user is guided safely to their destination while dynamically avoiding obstacles.
 
-![Assistive Robot Cane Image](https://github.com/tahsinhossain123/Assistive-Robot-Cane/blob/main/Robot-Cane-Image.jpg) 
+![Robot-Cane-Image](https://github.com/marknnour/smart-assistive-cane/assets/115903496/ec150832-a892-4c65-b008-c83c79fb9fe2)
 
 ![IMG_8339](https://github.com/marknnour/smart-assistive-cane/assets/115903496/8ff84b65-a916-4afc-93c4-36f26a750939)
 
