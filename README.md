@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Assistive Robot Cane 🤖🦯
+
+# Assistive Robot Cane
 
 ## Overview
 The Assistive Robot Cane is a smart assistive tool designed for individuals with visual impairments. By leveraging the Robot Operating System (ROS) framework, the cane is able to actively sense its environment and compute optimal paths, ensuring the user is guided safely to their destination while dynamically avoiding obstacles.
@@ -22,9 +22,11 @@ Throughout this workshop, my team and I dedicated our efforts to build the smart
 From concept to prototype, our journey of designing the Robot Cane was both challenging and fulfilling. The final product stands as a testament to the transformative potential of robotics in enhancing the quality of life for many.
 
 Key capabilities of the cane include:
-- Real-time environmental sensing.
-- Efficient and safe path computation.
-- Dynamic obstacle detection and avoidance.
+-Use the Robot Operating System (ROS) framework to build a robot application
+-Perform state estimation using fiducial markers (used ArUco markers)
+-Plan robot movements using a graph-based motion planning algorithm (used A Star algorithm)
+-Send control signals to a robot that will guide a human user (Used RPi GPIO with ROS messages)
+-Understand and integrate various sub-fields of robotics such as state estimation, motion planning, and controls towards developing a smart assistive cane
 
 ## Conclusion 🌟
 
@@ -32,8 +34,3 @@ This project was truly rewarding, and it showcased the potential of robotics to 
 
 
 
-
-
-=======
-# smart-assistive-cane
->>>>>>> bec30bb2bc6d6d5b11fecaf2c665d16a856ed583
