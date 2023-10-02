@@ -36,4 +36,10 @@ Key capabilities of the cane include:
 This project was truly rewarding, and it showcased the potential of robotics to positively impact the world.
 
 
+<img src="https://github.com/marknnour/smart-assistive-cane/assets/115903496/ec150832-a892-4c65-b008-c83c79fb9fe2" width="400">
+
+<img src="https://github.com/marknnour/smart-assistive-cane/assets/115903496/8ff84b65-a916-4afc-93c4-36f26a750939" width="400">
+
+
+
 
