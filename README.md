@@ -6,6 +6,9 @@ The Assistive Robot Cane is a smart assistive tool designed for individuals with
 
 ![Assistive Robot Cane Image](https://github.com/tahsinhossain123/Assistive-Robot-Cane/blob/main/Robot-Cane-Image.jpg) 
 
+![IMG_8339](https://github.com/marknnour/smart-assistive-cane/assets/115903496/8ff84b65-a916-4afc-93c4-36f26a750939)
+
+
 ## About the Project
 
 The Assistive Robot Cane was developed during the SoNIC Summer Research Workshop hosted by Cornell University. This workshop provided a deep dive into the world of Robotics and Assistive Technology.
