@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Assistive Robot Cane 🤖🦯
 
 ## Overview
@@ -33,3 +34,6 @@ This project was truly rewarding, and it showcased the potential of robotics to 
 
 
 
+=======
+# smart-assistive-cane
+>>>>>>> bec30bb2bc6d6d5b11fecaf2c665d16a856ed583
